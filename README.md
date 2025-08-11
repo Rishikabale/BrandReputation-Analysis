@@ -1,5 +1,6 @@
 📊 Brand Reputation Analysis App
-🚀 Live demo: Click here to try it!
+🚀 **Live demo:** [Click here to try it!](https://brandreputation-analysis-vhizcqp4tetcdunez9i6wt.streamlit.app/)
+
 
 This is a simple Brand Reputation Analysis app built with Python + Streamlit.
 It analyzes customer reviews from a CSV file using VADER Sentiment Analysis to determine whether sentiment is Positive, Negative, or Neutral.
